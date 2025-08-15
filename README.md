@@ -18,7 +18,7 @@ A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Th
 
 🖼 Preview
 
-(Add a screenshot of your game here for better presentation)
+(https://namanjain-git.github.io/Tic-Tac-Toe-Game/)
 
 🎮 How to Play
 

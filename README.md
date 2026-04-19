@@ -16,9 +16,9 @@ A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Th
 
 🏆 Win Detection – Automatically detects wins, losses, and draws.
 
-🖼 Preview
+🖼 YOU CAN PLAY THE GAME HERE --
 
-(https://namanjain-git.github.io/Tic-Tac-Toe-Game/)
+---->>   tictactoe-by-naman.netlify.app
 
 🎮 How to Play
 
